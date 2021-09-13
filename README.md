@@ -20,8 +20,8 @@ pip install pymunk
 ```
 git clone https://github.com/ZU3AIR/Gravity-Simulator.git
 ```
-3. Visit the directory in which the repository has been cloned in
-4. Run the python file
+2. Visit the directory in which the repository has been cloned in
+3. Run the python file
 ```
 python grav.py
 ```
