@@ -11,12 +11,17 @@ This is a Python Application that simulates gravity using the following modules:
 ### Prerequisites
 
 Prior to running the application you must first install the relevant packages:
->pip install pygame
->pip install pymunk
-
+```
+pip install pygame
+pip install pymunk
+```
 ### Setup
 1. Clone the repository
->  git clone https://github.com/ZU3AIR/Gravity-Simulator.git 
-2. Visit the directory in which the repository has been cloned in
-3. Run the python file
-> python grav.py
+```
+git clone https://github.com/ZU3AIR/Gravity-Simulator.git
+```
+3. Visit the directory in which the repository has been cloned in
+4. Run the python file
+```
+python grav.py
+```
